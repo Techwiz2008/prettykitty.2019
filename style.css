@@ -1,0 +1,56 @@
+.button {
+    background-color: #FFC0CB;
+    color: white;
+    text-align: center;
+    padding: 15px 32px;
+    font-size: 50px;
+    font-family: Kaushan Script;
+    width: 100%;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #FF1493;
+}
+
+th {
+    font-size: 50px
+}
+
+.text {
+    background-color: #FFC0CB;
+    color: white;
+    text-align: center;
+    padding: 15px 32px;
+    font-size: 50px;
+    font-family: Kaushan Script;
+    width: 100%;
+    cursor: pointer;
+}
+
+.text:hover {
+    background-color: #FF1493;
+}
+
+th {
+    font-size: 50px
+}
+
+.submit {
+    background-color: #FFC0CB;
+    color: white;
+    text-align: center;
+    padding: 15px 32px;
+    font-size: 50px;
+    font-family: Kaushan Script;
+    width: 100%;
+    cursor: pointer;
+}
+
+.submit:hover {
+    background-color: #FF1493;
+}
+
+th {
+    font-size: 50px
+}
